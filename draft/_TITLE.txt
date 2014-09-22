@@ -1,0 +1,5 @@
+音程を見つけるためのより賢い方法（A SMARTER WAY TO FIND PITCH）
+Philip McLeod、Geoff Wyvill
+University of Otago
+Department of Computer Science
+pmcleod, geoff @cs.otago.ac.nz
